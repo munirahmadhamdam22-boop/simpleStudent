@@ -1,0 +1,2 @@
+# simpleStudent
+Student Management System is a simple web-based application developed using Laravel Framework and Laravel Breeze for authentication. The system provides a secure dashboard where authorized users can manage student records efficiently.  The main functionality of the system is to add and store student information in a centralized database. 
